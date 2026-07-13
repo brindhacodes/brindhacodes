@@ -1,4 +1,4 @@
-I am a passionate Computer Science Engineering student and aspiring software developer. I enjoy building full-stack web applications, learning new technologies, and exploring Artificial Intelligence and Machine Learning. I love solving real-world problems through code, continuously improving my skills, and creating impactful projects. My goal is to become a versatile developer who builds innovative and user-friendly solutions.
+⁹I am a passionate Computer Science Engineering student and aspiring software developer. I enjoy building full-stack web applications, learning new technologies, and exploring Artificial Intelligence and Machine Learning. I love solving real-world problems through code, continuously improving my skills, and creating impactful projects. My goal is to become a versatile developer who builds innovative and user-friendly solutions.
 
 
 ## 💼 Tech Stack
@@ -20,8 +20,13 @@ I am a passionate Computer Science Engineering student and aspiring software dev
 - Open Source
 - Problem Solving
 
-## 📫 Connect with Me
+## 🌐 Let's Connect
 
-- GitHub: https://github.com/brindhacodes
-- LinkedIn: https://www.linkedin.com/in/brindha-s-a43a76389?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: sribrin2008@gmail.com 
+<p align="left">
+  <a href="https://www.linkedin.com/in/brindha-s-a43a76389">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/brindhacodes">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
