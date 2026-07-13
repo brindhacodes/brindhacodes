@@ -24,9 +24,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brindha-s-a43a76389">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/brindhacodes">
-    <img src="https://skillicons.dev/icons?i=github" />
+
+  <a href="mailto:sribrin2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
