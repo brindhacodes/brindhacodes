@@ -4,7 +4,7 @@
 ## 💼 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,nodejs,mysql,mongodb,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,html,css,javascript,react,nodejs,python,java,c,cpp,mysql,mongodb" />
 </p>
 
 ## 🌱 Currently Learning
